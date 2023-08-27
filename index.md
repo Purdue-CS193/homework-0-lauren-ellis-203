@@ -14,6 +14,11 @@ Syntax highlighted code block
 # Header 1 PARTY
 ## Header 2 PARTY TIME
 ### Header 3 PARTY
+# Lauren's First CS193 Homework
+Some of my favorite things about CS193
+- The idea... of a class where you can learn important tools to help you succeed
+- the people... that are almost all studying something similar to you
+- the teachers!
 
 - Bulleted
 - List
