@@ -18,7 +18,7 @@ Some of my favorite things about CS193
 - the people... that are almost all studying something similar to you
 - the teachers!
 
-I thought I would include a gift! [Link](https://emojicombos.com/dachshund)
+I thought I would include a gift! 
 
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣤⠄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⡴⠊⠁⢀⣀⣀⠀⠀⣀⣀⣠⡤⠤⠤⠤⣄⣀⡀⠀⠀⠀⠀⠈⠱⢦⡀⠀⠀⠀⠀⠀⠀⠀
